@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InfoCovid19</string>
+    <string name="provinsi">Data Provinsi</string>
+    <string name="kasus">Data Kasus</string>
+    <string name="harian">Data Harian</string>
+</resources>
